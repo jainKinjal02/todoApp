@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.sub-btn{
+  margin:5px;
+}
+.input-field{
+  margin:5px;
+}
+
+.todo-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.li-item, .li-btn{
+  margin: 5px;
+}
